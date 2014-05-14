@@ -1,0 +1,8 @@
+***************************************************************
+*PROGETTO ARDUINO SVILUPPATO DAL FABLAB JUNIOR DI BAGNACAVALLO*
+***************************************************************
+
+
+Progetto realizzato su scheda arduino Nano che leggendo i valori 
+di 4 igrometri posti all'interno di un "giardino verticale"
+attiva l'irragazione oltrepassata una certa soglia di secchezza.

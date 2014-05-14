@@ -15,9 +15,9 @@ unsigned long lastRead;
 
 void setup(){
 	pinSens[0] = A0;
-	pinSens[1] = A1;	
-	pinSens[2] = A2;
-	pinSens[3] = A3;
+//	pinSens[1] = A1;	
+//	pinSens[2] = A2;
+//	pinSens[3] = A3;
 	int i;
 	for (i=0;i<NSENS;i++)
 		pinMode(pinSens[i],INPUT);
